@@ -17,7 +17,12 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(array) {
-  do {array.length > 0 
-  } while array.length > 0 ++ (maybeTrue())
+  {
+  return Math.random() >= 0.5
+}
+
+do {
+  array.push(array -1)
+  } while (array.length > 0 + (maybeTrue()));
   return array
 }
