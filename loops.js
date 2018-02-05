@@ -18,5 +18,6 @@ function whileLoop(n) {
 
 function doWhileLoop(array) {
   do {array.length > 0 
+  } while 
   return array
 }
