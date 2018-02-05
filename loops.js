@@ -18,6 +18,6 @@ function whileLoop(n) {
 
 function doWhileLoop(array) {
   do {array.length > 0 
-  } while 
+  } while (maybeTrue())
   return array
 }
